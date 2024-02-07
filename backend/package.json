@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "\"This is my first full stack application\"",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Tejas Shinde",
+  "license": "ISC",
+  "dependencies": {
+    "dot-env": "^0.0.1",
+    "express": "^4.18.2"
+  }
+}
